@@ -1,8 +1,8 @@
-# ☕ Coffee Shop Challenge
+# Coffee Shop Challenge
 
 A Python project modeling the relationships between customers, coffees, and orders in a coffee shop. This challenge demonstrates object-oriented programming, object relationships, validation, and data aggregation.
 
-## 📁 Project Structure
+## Project Structure
 
 coffee-shop-challenge/
 ├── coffee.py
@@ -16,7 +16,7 @@ markdown
 Copy
 Edit
 
-## 🧠 Models
+## Models
 
 ### Customer
 - **Attributes**: `name` (str, 1–15 characters)
@@ -42,7 +42,7 @@ Edit
   - `.customer` → Linked `Customer`
   - `.coffee` → Linked `Coffee`
 
-## ✅ Requirements Covered
+## Requirements Covered
 
 - [x] Class initializers and validations
 - [x] Getter/setter properties
@@ -50,7 +50,7 @@ Edit
 - [x] Aggregate methods
 - [x] Bonus method: `Customer.most_aficionado()`
 
-## 🧪 How to Run
+## How to Run
 
 ```bash
 # Clone the repo
